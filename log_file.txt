@@ -1,2 +1,3 @@
 14:39 - First commit. Received the test at 13:49 and been gathering information since.
 16:12 - Reading documentation, doing research and analyzing dataset - Some trouble with Git provoked some delay
+17:12 - Doing Research. Checking how many unique Job Titles exist
