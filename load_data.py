@@ -4,16 +4,21 @@ csv_file_name = "reed_uk.csv"
 df = pd.read_csv(csv_file_name)
 
 job_board = df['job_board']
-
-# rows of dataframe
-num_rows = df.shape[0]
-print(num_rows)
-
-# reed is the only value in the job_board column
+# reed is the only value in the job_board column, it can be ignored in the graph
 print(job_board.unique())
 
-job_titles = df['job_title'].unique()
-num_unique_titles = len(job_titles)
+# DATASET INFO
+print("-----NUMBER OF DATASET ROWS------")
+print(df.shape[0])
 
-print(job_titles)
-print(num_unique_titles)
+# Check how many unique job titles are there in the dataset and its count
+num_unique_titles = len(df['job_title'].unique())
+print(df['job_title'].value_counts()[:15].sort_values(ascending=False))
+
+print("----------------------------")
+# Checking skills values
+requirements = df['job_requirements']
+requirements_unique = requirements.unique()
+print(len(requirements_unique))
+print(requirements.value_counts()[:15].sort_values(ascending=False))
+
