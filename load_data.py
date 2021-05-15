@@ -1,10 +1,12 @@
-
+import pandas as pd
 csv_file_name = "reed_uk.csv"
 
-with open(csv_file_name, mode='r') as csv_file:
-    data = {}
-    headers = csv_file.readline()
+df = pd.read_csv(csv_file_name)
 
-    # for line in csv_file.readlines():
+job_board = df['job_board']
 
+# reed is the only value in the job_board column
+print(job_board.unique())
 
+job_titles = df['job_title'].unique()
+print(job_titles)
