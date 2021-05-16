@@ -3,3 +3,4 @@
 17:12 - Doing Research. Checking how many unique Job Titles exist
 18:10 - Analyzing dataset - Drawing paper sketches of graph architecture
 20:30 - Installing libraries, enabling Jupyter Notebook, installing Neo4J Desktop - Dinner Time
+22:00 - Testing py2neo connection with Neo4J using Jupyter Notebook.
