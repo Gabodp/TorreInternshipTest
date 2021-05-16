@@ -8,3 +8,4 @@
 16/05/2012 11:22 - Analyzing Dataset - Defining Graph Restrictions
 16/05/2012 12:10 - Creating first Nodes and Relationships - Trying Neo4J framework
 16/05/2012 14:15 - Creating Nodes and Relationships - Evaluating architecture of Network
+16/05/2012 14:15 - Analyzing architecture of Network with only 60 rows
