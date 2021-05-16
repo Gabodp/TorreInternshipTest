@@ -1,6 +1,7 @@
-14:39 - First commit. Received the test at 13:49 and been gathering information since.
-16:12 - Reading documentation, doing research and analyzing dataset - Some trouble with Git provoked some delay
-17:12 - Doing Research. Checking how many unique Job Titles exist
-18:10 - Analyzing dataset - Drawing paper sketches of graph architecture
-20:30 - Installing libraries, enabling Jupyter Notebook, installing Neo4J Desktop - Dinner Time
-22:00 - Testing py2neo connection with Neo4J using Jupyter Notebook.
+15/05/2021 14:39 - First commit. Received the test at 13:49 and been gathering information since.
+15/05/2021 16:12 - Reading documentation, doing research and analyzing dataset - Some trouble with Git provoked some delay
+15/05/2021 17:12 - Doing Research. Checking how many unique Job Titles exist
+15/05/2021 18:10 - Analyzing dataset - Drawing paper sketches of graph architecture
+15/05/2021 20:30 - Installing libraries, enabling Jupyter Notebook, installing Neo4J Desktop - Dinner Time
+15/05/2021 22:00 - Testing py2neo connection with Neo4J using Jupyter Notebook.
+16/05/2012 10:10 - Analyzing Dataset and defining Nodes for Graph

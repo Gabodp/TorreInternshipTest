@@ -11,14 +11,24 @@ print(job_board.unique())
 print("-----NUMBER OF DATASET ROWS------")
 print(df.shape[0])
 
+print("----------------------------")
 # Check how many unique job titles are there in the dataset and its count
 num_unique_titles = len(df['job_title'].unique())
+print("There are %d unique job titles" % num_unique_titles)
 print(df['job_title'].value_counts()[:15].sort_values(ascending=False))
+
+print("----------------------------")
+# Checking how many unique companies are there in the dataset
+companies = df['company_name']
+print("There are %d unique companies" % len(companies.unique()))
+print(companies.value_counts()[:15].sort_values(ascending=False))
 
 print("----------------------------")
 # Checking skills values
 requirements = df['job_requirements']
-requirements_unique = requirements.unique()
-print(len(requirements_unique))
+print(len(requirements.unique()))
 print(requirements.value_counts()[:15].sort_values(ascending=False))
 
+print("----------------------------")
+# Checking country values
+countries = df['geo']
