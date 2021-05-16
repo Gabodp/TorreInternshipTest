@@ -6,3 +6,4 @@
 15/05/2021 22:00 - Testing py2neo connection with Neo4J using Jupyter Notebook.
 16/05/2012 10:10 - Analyzing Dataset and defining Nodes for Graph
 16/05/2012 11:22 - Analyzing Dataset - Defining Graph Restrictions
+16/05/2012 12:10 - Creating first Nodes and Relationships - Trying Neo4J framework
