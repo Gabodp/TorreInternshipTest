@@ -10,3 +10,5 @@
 16/05/2012 14:15 - Creating Nodes and Relationships - Evaluating architecture of Network
 16/05/2012 14:15 - Analyzing architecture of Network with only 60 rows
 16/05/2012 16:15 - Analyzing full architecture of the Graph Network
+16/05/2012 16:15 - Analyzing full architecture of the Graph Network
+16/05/2012 23:05 - Analyzing full architecture of the Graph Network - Debugging connection with icypher queries
