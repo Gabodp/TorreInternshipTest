@@ -13,3 +13,4 @@
 16/05/2012 16:15 - Analyzing full architecture of the Graph Network
 16/05/2012 23:05 - Analyzing full architecture of the Graph Network - Debugging connection with icypher queries
 17/05/2012 19:00/20:10 - Querying and Analyzing results to get insights
+18/05/2012 22:46 - Describing insights and difficulties faced
